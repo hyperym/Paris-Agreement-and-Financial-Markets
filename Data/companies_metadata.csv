@@ -1,0 +1,38 @@
+Company,Ticker,Country,Sector,Treatment
+NextEra Energy,NEE,USA,Green,1
+First Solar,FSLR,USA,Green,1
+Ormat Technologies,ORA,USA,Green,1
+ExxonMobil,XOM,USA,Oil_Gas,0
+Chevron,CVX,USA,Oil_Gas,0
+ConocoPhillips,COP,USA,Oil_Gas,0
+SSE,SSE.L,UK,Green,1
+Drax Group,DRX.L,UK,Green,1
+BP,BP,UK,Oil_Gas,0
+Shell,SHEL,UK,Oil_Gas,0
+Engie,ENGI.PA,France,Green,1
+Veolia,VEOEY,France,Green,1
+TotalEnergies,TTE,France,Oil_Gas,0
+Nordex,NDX1.DE,Allemagne,Green,1
+SMA Solar,S92.DE,Allemagne,Green,1
+RWE,RWE.DE,Allemagne,Oil_Gas,0
+E.ON,EOAN.DE,Allemagne,Oil_Gas,0
+Northland Power,NPI.TO,Canada,Green,1
+TransAlta,TA.TO,Canada,Green,1
+Suncor Energy,SU.TO,Canada,Oil_Gas,0
+Canadian Natural,CNQ.TO,Canada,Oil_Gas,0
+Imperial Oil,IMO.TO,Canada,Oil_Gas,0
+AGL Energy,AGL.AX,Australie,Green,1
+Origin Energy,ORG.AX,Australie,Green,1
+Woodside Energy,WDS,Australie,Oil_Gas,0
+Santos,STO.AX,Australie,Oil_Gas,0
+Tokyo Gas,9531.T,Japon,Green,1
+Osaka Gas,9532.T,Japon,Green,1
+ENEOS Holdings,5020.T,Japon,Oil_Gas,0
+Inpex Corporation,1605.T,Japon,Oil_Gas,0
+Engie Brasil,EGIE3.SA,Bresil,Green,1
+CPFL Energia,CPFE3.SA,Bresil,Green,1
+Petrobras,PBR,Bresil,Oil_Gas,0
+China Longyuan Power,0916.HK,Chine,Green,1
+Xinyi Solar,0968.HK,Chine,Green,1
+Sinopec,SNP,Chine,Oil_Gas,0
+CNOOC Ltd,0883.HK,Chine,Oil_Gas,0
